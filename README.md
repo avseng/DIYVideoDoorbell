@@ -3,8 +3,8 @@ Powered by a Raspberry Pi and a wide angle rpi camera module 3, this system feat
 It includes a magnetic door sensor that automatically cuts off the live video stream the moment the door opens for safety. With dedicated controls, you can launch a live HD video feed, capture high-res photos, and browse saved images through a built-in gallery—all controlled by customized Python and Tkinter software.
 A complete smart home project combining hardware, hardware safety interrupts, and custom software UI!
 
-**Installation steps**
-Step_1: copy the deoorbell.py file into /home/pi directory
+**Installation steps**\
+Step_1: copy the deoorbell.py file into /home/pi directory\
 Step_2: change the permission 
 `chmod +x /home/pi/doorbell.py`
 Step_3: Create the autostart directory if it doesn't already exist:
