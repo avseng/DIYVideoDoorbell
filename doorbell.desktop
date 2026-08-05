@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Pi Doorbell System
+Exec=/usr/bin/python3 /home/pi/doorbell.py
+Path=/home/pi
+X-GNOME-Autostart-enabled=true
