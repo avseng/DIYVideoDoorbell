@@ -11,7 +11,7 @@ import socket
 import glob
 
 # --- CONFIGURATION ---
-BUTTON_PIN = 22       # GPIO pin for physical doorbell button
+BUTTON_PIN = 23       # GPIO pin for physical doorbell button
 MAGNET_PIN = 27       # GPIO pin for door magnet sensor (Grounded when door is CLOSED)
 FRAME_WIDTH = 800     # Full width of 7-inch display
 FRAME_HEIGHT = 480    # Full height of 7-inch display
