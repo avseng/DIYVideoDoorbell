@@ -28,4 +28,5 @@ Step_6: install all the packages using below single command\
     
 
 **<h2>Schematic</h2>**\
-<img width="3000" height="2476" alt="circuit_image (2)" src="https://github.com/user-attachments/assets/142d9b61-7ce5-4a2f-b89c-ca4cc451cc52" />
+<img width="3000" height="2476" alt="circuit_image (3)" src="https://github.com/user-attachments/assets/31f7bdfd-4a6f-4bc6-a1cd-6f7f1218305e" />
+
